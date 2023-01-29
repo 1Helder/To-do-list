@@ -1,4 +1,6 @@
-# Como rodar o projeto:
+# Breve explicação e como rodar o projeto:
+
+É possível deletar tarefas, adicionar novas e ver informações das tarefas
 
 1°- No terminal do VS Code, acesse a pasta raiz do projeto (projeto-lista-de-tarefas) e execute o comando "npm install" para instalar as dependências.
 
